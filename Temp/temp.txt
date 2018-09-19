@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-temp1234
-=======
-temp123
->>>>>>> 1b7fb67fde04c3f14e15ee43b4ddb7fa10438ad5
