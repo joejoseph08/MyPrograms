@@ -1,2 +1,0 @@
-# MyPrograms
-My_Programs
