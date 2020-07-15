@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1373081311 source:c:\users\masters\desktop\test\calender\code\calender_programs.c
+	"Calender_Programs.h"
+
+1340886140 c:\users\masters\desktop\test\calender\code\calender_programs.h
+	"Typedef.h"
+	"Macro.h"
+
+1372784377 c:\users\masters\desktop\test\calender\code\typedef.h
+	"Macro.h"
+
+1372784549 c:\users\masters\desktop\test\calender\code\macro.h
+
+1374169806 source:c:\users\masters\desktop\test\calender\code\main.c
+	"Main.h"
+
+1371289803 c:\users\masters\desktop\test\calender\code\main.h
+	<stdio.h>
+	"Extern.h"
+	"Typedef.h"
+	<string.h>
+	<stdlib.h>
+	<math.h>
+
+1372784424 c:\users\masters\desktop\test\calender\code\extern.h
+	"Typedef.h"
+

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Interest_Calculation" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/C_Programs_List" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/C_Programs_List" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="../../code/Compound_Interest.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../code/Compound_Interest.h" />
+		<Unit filename="../../code/Extern.h" />
+		<Unit filename="../../code/Macro.h" />
+		<Unit filename="../../code/Main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../code/Main.h" />
+		<Unit filename="../../code/Simple_Interest.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../code/Simple_Interest.h" />
+		<Unit filename="../../code/Typedef.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

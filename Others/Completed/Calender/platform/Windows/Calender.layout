@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="..\..\code\Calender_Programs.c" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2331" topLine="39" />
+		</Cursor>
+	</File>
+	<File name="..\..\code\Calender_Programs.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="156" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\code\Extern.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="275" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\code\Macro.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="236" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\code\Main.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="36" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="..\..\code\Typedef.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2312" topLine="102" />
+		</Cursor>
+	</File>
+	<File name="..\..\code\Main.c" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="325" topLine="14" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>

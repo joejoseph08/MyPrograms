@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1343219946 source:f:\desktop_files\test\new folder\doubly_linked_list\code\doubly_linked list.c
+	"Doubly_Linked List.h"
+
+1371289424 f:\desktop_files\test\new folder\doubly_linked_list\code\doubly_linked list.h
+	<stdio.h>
+	<stdlib.h>
+	"Typedef.h"
+	"Extern.h"
+
+1407089864 f:\desktop_files\test\new folder\doubly_linked_list\code\typedef.h
+	"Macro.h"
+
+1407088674 f:\desktop_files\test\new folder\doubly_linked_list\code\macro.h
+
+1407088266 f:\desktop_files\test\new folder\doubly_linked_list\code\extern.h
+	"Typedef.h"
+
+1407089191 source:f:\desktop_files\test\new folder\doubly_linked_list\code\main.c
+	"Main.h"
+
+1371289804 f:\desktop_files\test\new folder\doubly_linked_list\code\main.h
+	<stdio.h>
+	"Extern.h"
+	"Typedef.h"
+	<string.h>
+	<stdlib.h>
+	<math.h>
+
+1408503398 source:f:\desktop_files\test\new_folder\doubly_linked_list\code\doubly_linked_list.c
+	"Doubly_Linked_List.h"
+
+1371289424 f:\desktop_files\test\new_folder\doubly_linked_list\code\doubly_linked_list.h
+	<stdio.h>
+	<stdlib.h>
+	"Typedef.h"
+	"Extern.h"
+
+1407089864 f:\desktop_files\test\new_folder\doubly_linked_list\code\typedef.h
+	"Macro.h"
+
+1407088674 f:\desktop_files\test\new_folder\doubly_linked_list\code\macro.h
+
+1407088266 f:\desktop_files\test\new_folder\doubly_linked_list\code\extern.h
+	"Typedef.h"
+
+1408506846 source:f:\desktop_files\test\new_folder\doubly_linked_list\code\main.c
+	"Main.h"
+
+1371289804 f:\desktop_files\test\new_folder\doubly_linked_list\code\main.h
+	<stdio.h>
+	"Extern.h"
+	"Typedef.h"
+	<string.h>
+	<stdlib.h>
+	<math.h>
+
+1409936500 source:f:\my_svn\google_drive\official\others\programs\others\in_progress\doubly_linked_list\code\doubly_linked_list.c
+	"Doubly_Linked_List.h"
+
+1371289424 f:\my_svn\google_drive\official\others\programs\others\in_progress\doubly_linked_list\code\doubly_linked_list.h
+	<stdio.h>
+	<stdlib.h>
+	"Typedef.h"
+	"Extern.h"
+
+1407089864 f:\my_svn\google_drive\official\others\programs\others\in_progress\doubly_linked_list\code\typedef.h
+	"Macro.h"
+
+1407088674 f:\my_svn\google_drive\official\others\programs\others\in_progress\doubly_linked_list\code\macro.h
+
+1407088266 f:\my_svn\google_drive\official\others\programs\others\in_progress\doubly_linked_list\code\extern.h
+	"Typedef.h"
+
+1408511316 source:f:\my_svn\google_drive\official\others\programs\others\in_progress\doubly_linked_list\code\main.c
+	"Main.h"
+
+1371289804 f:\my_svn\google_drive\official\others\programs\others\in_progress\doubly_linked_list\code\main.h
+	<stdio.h>
+	"Extern.h"
+	"Typedef.h"
+	<string.h>
+	<stdlib.h>
+	<math.h>
+

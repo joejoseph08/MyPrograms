@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1377795580 source:c:\users\masters\desktop\test\printf_Own_Fn\code\main.c
+	"Main.h"
+
+1377793742 c:\users\masters\desktop\test\printf_Own_Fn\code\main.h
+	<stdio.h>
+	"Extern.h"
+	"Typedef.h"
+	<string.h>
+	<stdlib.h>
+	<math.h>
+
+1374347402 c:\users\masters\desktop\test\printf_Own_Fn\code\extern.h
+	"Typedef.h"
+
+1374513714 c:\users\masters\desktop\test\printf_Own_Fn\code\typedef.h
+	"Macro.h"
+
+1374510603 c:\users\masters\desktop\test\printf_Own_Fn\code\macro.h
+
+1374348320 source:c:\users\masters\desktop\test\printf_Own_Fn\code\printf_Own_Fn.c
+	"printf_Own_Fn.h"
+
+1342680370 c:\users\masters\desktop\test\printf_Own_Fn\code\string_own_functions.h
+	"Typedef.h"
+

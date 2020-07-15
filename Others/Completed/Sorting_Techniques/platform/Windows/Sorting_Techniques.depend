@@ -1,0 +1,109 @@
+# depslib dependency file v1.0
+1372568124 source:c:\users\masters\desktop\test\sorting techniques\code\main.c
+	"Main.h"
+
+1372568077 c:\users\masters\desktop\test\sorting techniques\code\main.h
+	<stdio.h>
+	"Extern.h"
+	"Typedef.h"
+	<string.h>
+	<stdlib.h>
+	<math.h>
+
+1372567915 c:\users\masters\desktop\test\sorting techniques\code\extern.h
+	"Typedef.h"
+
+1372513912 c:\users\masters\desktop\test\sorting techniques\code\typedef.h
+	"Macro.h"
+
+1372515409 c:\users\masters\desktop\test\sorting techniques\code\macro.h
+
+1372567876 source:c:\users\masters\desktop\test\sorting techniques\code\sorting_techniques.c
+	"Sorting_Techniques.h"
+
+1372567915 c:\users\masters\desktop\test\sorting techniques\code\sorting_techniques.h
+	"Typedef.h"
+	"Extern.h"
+	<string.h>
+
+1374346509 source:e:\virus folder\office docs\joe meltronics backup\project files\sorting techniques\code\main.c
+	"Main.h"
+
+1372569014 e:\virus folder\office docs\joe meltronics backup\project files\sorting techniques\code\main.h
+	<stdio.h>
+	"Extern.h"
+	"Typedef.h"
+	<string.h>
+	<stdlib.h>
+	<math.h>
+
+1372567915 e:\virus folder\office docs\joe meltronics backup\project files\sorting techniques\code\extern.h
+	"Typedef.h"
+
+1372513912 e:\virus folder\office docs\joe meltronics backup\project files\sorting techniques\code\typedef.h
+	"Macro.h"
+
+1372515409 e:\virus folder\office docs\joe meltronics backup\project files\sorting techniques\code\macro.h
+
+1374346530 source:e:\virus folder\office docs\joe meltronics backup\project files\sorting techniques\code\sorting_techniques.c
+	"Sorting_Techniques.h"
+
+1372567915 e:\virus folder\office docs\joe meltronics backup\project files\sorting techniques\code\sorting_techniques.h
+	"Typedef.h"
+	"Extern.h"
+	<string.h>
+
+1408644122 source:f:\my_svn\google_drive\official\others\programs\others\sorting_techniques\code\main.c
+	"Main.h"
+
+1408642587 f:\my_svn\google_drive\official\others\programs\others\sorting_techniques\code\main.h
+	<stdio.h>
+	"Extern.h"
+	"Typedef.h"
+	<string.h>
+	<stdlib.h>
+	<math.h>
+
+1395769583 f:\my_svn\google_drive\official\others\programs\others\sorting_techniques\code\extern.h
+	"Typedef.h"
+
+1395769583 f:\my_svn\google_drive\official\others\programs\others\sorting_techniques\code\typedef.h
+	"Macro.h"
+
+1372515410 f:\my_svn\google_drive\official\others\programs\others\sorting_techniques\code\macro.h
+
+1408643674 source:f:\my_svn\google_drive\official\others\programs\others\sorting_techniques\code\sorting_techniques.c
+	"Sorting_Techniques.h"
+
+1395769582 f:\my_svn\google_drive\official\others\programs\others\sorting_techniques\code\sorting_techniques.h
+	"Typedef.h"
+	"Extern.h"
+	<string.h>
+
+1434332868 source:f:\my_svn\google_drive\official\others\programs\others\completed\sorting_techniques\code\main.c
+	"Main.h"
+
+1434332870 f:\my_svn\google_drive\official\others\programs\others\completed\sorting_techniques\code\main.h
+	<stdio.h>
+	"Extern.h"
+	"Typedef.h"
+	<string.h>
+	<stdlib.h>
+	<math.h>
+
+1408644526 f:\my_svn\google_drive\official\others\programs\others\completed\sorting_techniques\code\extern.h
+	"Typedef.h"
+
+1395769583 f:\my_svn\google_drive\official\others\programs\others\completed\sorting_techniques\code\typedef.h
+	"Macro.h"
+
+1408644551 f:\my_svn\google_drive\official\others\programs\others\completed\sorting_techniques\code\macro.h
+
+1408644663 source:f:\my_svn\google_drive\official\others\programs\others\completed\sorting_techniques\code\sorting_techniques.c
+	"Sorting_Techniques.h"
+
+1408644502 f:\my_svn\google_drive\official\others\programs\others\completed\sorting_techniques\code\sorting_techniques.h
+	"Typedef.h"
+	"Extern.h"
+	<string.h>
+
