@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1439877392 source:f:\my_svn\google_drive\official\others\programs\others\in_progress\investment_details\code\compound_interest.c
+	"Compound_Interest.h"
+
+1439876658 f:\my_svn\google_drive\official\others\programs\others\in_progress\investment_details\code\compound_interest.h
+	"Typedef.h"
+	"Macro.h"
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<math.h>
+
+1439894770 f:\my_svn\google_drive\official\others\programs\others\in_progress\investment_details\code\typedef.h
+	"Macro.h"
+
+1439876658 f:\my_svn\google_drive\official\others\programs\others\in_progress\investment_details\code\macro.h
+
+1439901366 source:f:\my_svn\google_drive\official\others\programs\others\in_progress\investment_details\code\main.c
+	"Main.h"
+
+1439876658 f:\my_svn\google_drive\official\others\programs\others\in_progress\investment_details\code\main.h
+	<stdio.h>
+	"Extern.h"
+	"Typedef.h"
+	<string.h>
+	<stdlib.h>
+
+1439876658 f:\my_svn\google_drive\official\others\programs\others\in_progress\investment_details\code\extern.h
+	"Typedef.h"
+
+1439876658 source:f:\my_svn\google_drive\official\others\programs\others\in_progress\investment_details\code\simple_interest.c
+	"Simple_Interest.h"
+
+1439876658 f:\my_svn\google_drive\official\others\programs\others\in_progress\investment_details\code\simple_interest.h
+	"Typedef.h"
+	"Macro.h"
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+

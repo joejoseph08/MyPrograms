@@ -1,0 +1,104 @@
+# depslib dependency file v1.0
+1343219946 source:f:\desktop_files\test\new folder\C_Programs_List\code\doubly_linked list.c
+	"Doubly_Linked List.h"
+
+1371289424 f:\desktop_files\test\new folder\C_Programs_List\code\doubly_linked list.h
+	<stdio.h>
+	<stdlib.h>
+	"Typedef.h"
+	"Extern.h"
+
+1407089864 f:\desktop_files\test\new folder\C_Programs_List\code\typedef.h
+	"Macro.h"
+
+1407088674 f:\desktop_files\test\new folder\C_Programs_List\code\macro.h
+
+1407088266 f:\desktop_files\test\new folder\C_Programs_List\code\extern.h
+	"Typedef.h"
+
+1407089191 source:f:\desktop_files\test\new folder\C_Programs_List\code\main.c
+	"Main.h"
+
+1371289804 f:\desktop_files\test\new folder\C_Programs_List\code\main.h
+	<stdio.h>
+	"Extern.h"
+	"Typedef.h"
+	<string.h>
+	<stdlib.h>
+	<math.h>
+
+1404739166 source:f:\desktop_files\test\new folder\c_programs_list\code\prg20.c
+	<stdio.h>
+
+1408472370 source:f:\desktop_files\test\new folder\c_programs_list\code\main.c
+	"Main.h"
+
+1408472353 f:\desktop_files\test\new folder\c_programs_list\code\main.h
+	<stdio.h>
+	"extern.h"
+
+1408426234 f:\desktop_files\test\new folder\c_programs_list\code\extern.h
+
+1409394160 source:f:\desktop_files\test\new_folder\c_programs_list\code\main.c
+	"Main.h"
+
+1409393947 f:\desktop_files\test\new_folder\c_programs_list\code\main.h
+	<stdio.h>
+	"extern.h"
+	"Macro.h"
+
+1409392705 f:\desktop_files\test\new_folder\c_programs_list\code\extern.h
+
+1409393645 source:f:\desktop_files\test\new_folder\c_programs_list\code\prg11.c
+	<stdio.h>
+
+1409393711 source:f:\desktop_files\test\new_folder\c_programs_list\code\prg12.c
+	<stdio.h>
+
+1404739166 source:f:\desktop_files\test\new_folder\c_programs_list\code\prg20.c
+	<stdio.h>
+
+1408472426 source:f:\desktop_files\test\new_folder\c_programs_list\code\prg46.c
+	<stdarg.h>
+	<stdio.h>
+	<string.h>
+
+1409393017 source:f:\desktop_files\test\new_folder\c_programs_list\code\prg5.c
+	<stdio.h>
+
+1409393205 source:f:\desktop_files\test\new_folder\c_programs_list\code\prg6.c
+	<stdio.h>
+
+1409393264 source:f:\desktop_files\test\new_folder\c_programs_list\code\prg8.c
+	<stdio.h>
+
+1409393399 source:f:\desktop_files\test\new_folder\c_programs_list\code\prg9.c
+	<stdio.h>
+
+1409393898 f:\desktop_files\test\new_folder\c_programs_list\code\macro.h
+
+1441119932 source:f:\my_svn\google_drive\official\others\programs\others\in_progress\card_game_hearts\code\card_game_hearts.c
+	"Card_Game_Hearts.h"
+
+1441118517 f:\my_svn\google_drive\official\others\programs\others\in_progress\card_game_hearts\code\card_game_hearts.h
+	<stdio.h>
+	<string.h>
+	"Typedef.h"
+	"Macro.h"
+	"Extern.h"
+
+1441117410 f:\my_svn\google_drive\official\others\programs\others\in_progress\card_game_hearts\code\typedef.h
+
+1441117847 f:\my_svn\google_drive\official\others\programs\others\in_progress\card_game_hearts\code\macro.h
+
+1441118755 f:\my_svn\google_drive\official\others\programs\others\in_progress\card_game_hearts\code\extern.h
+
+1441118714 source:f:\my_svn\google_drive\official\others\programs\others\in_progress\card_game_hearts\code\main.c
+	"Main.h"
+
+1422123007 f:\my_svn\google_drive\official\others\programs\others\in_progress\card_game_hearts\code\main.h
+	<stdio.h>
+	"Typedef.h"
+	"Macro.h"
+	"Extern.h"
+
